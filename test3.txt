@@ -1,0 +1,8 @@
+cow EENA 4 5
+cow MEENA 5 5
+cow DEEKA 6 5
+cow SUSHMA 7 5
+paintball RED 1 1 1
+paintball GREEN 2 1 1
+paintball BLUE 3 1 1
+paintball YELLOW 4 1 1

@@ -1,0 +1,9 @@
+Test Case 1(test1.txt)
+  - Adding last paint-ball with minimum radius for testing chain reaction.
+
+Test Case 2(test2.txt)
+  - Adding paint-balls after cows to demonstrate adjacency list
+  - is being generated correctly in reverse order of addition as well.
+
+Test Case 3(test3.txt)
+  - No cows are within the range of paint-ball.
